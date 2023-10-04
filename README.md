@@ -11,7 +11,9 @@ Hello, I'm **Jung Jaeyeon**, currently residing in South Korea and pursuing my s
      - Credit Risk Assessment, Anomaly Detection in Transactions, etc.
   2. Game Algorithms using Deep Learning
      [![YouTube Thumbnail](https://img.youtube.com/vi/GWd4g1qCDxo/maxresdefault.jpg)](https://www.youtube.com/watch?v=GWd4g1qCDxo)
-     [AIWarehouse YouTube Channel](https://www.youtube.com/channel/UC9jgqQ3U0gXMMxodgXa59kQ)
+     [![YouTube Thumbnail](https://img.youtube.com/vi/L_4BPjLBF4E/maxresdefault.jpg)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
+
+
 
  ## About This Repository
 
