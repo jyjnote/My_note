@@ -1,6 +1,8 @@
 | Weeks | Subject                                     | contents                          |
 |------|-----------------------------------------------|-----------------------------------|
-| 1    | Introduction to the Course                    |                                   |
+| 1    | Finance and Financial Markets                  | - Investment Ecvironmnt           | 
+|      |                                               | -Asset Classes                     |
+|      |                                               |-How Securities are Traded          |
 | 2    | Basic Concepts and Definitions                | - Introduction to Machine Learning |
 |      |                                               | - Supervised and Unsupervised Learning |
 |      |                                               | - Regression and Classification    |
