@@ -1,4 +1,4 @@
 This directory covers the fields of finance, economics, and engineering. It is a space where I organize and upload personal study materials. The copyrights of all course materials are attributed to the following link
 
 
-[![Folder Icon](link_to_your_folder_icon_image)](Investment Theory (Financial Data Analysis using R and Excel))[Course Link](https://lms.kmooc.kr/course/view.php?id=9522).
+1. ![Folder Icon](https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png)(Investment Theory (Financial Data Analysis using R and Excel))[Course Link](https://lms.kmooc.kr/course/view.php?id=9522).
