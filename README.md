@@ -10,8 +10,10 @@ Hello, I'm **Jung Jaeyeon**, currently residing in South Korea and pursuing my s
   1. Utilizing Artificial Intelligence in Finance
      - Credit Risk Assessment, Anomaly Detection in Transactions, etc.
   2. Game Algorithms using Deep Learning
+     [![YouTube Thumbnail](https://img.youtube.com/vi/GWd4g1qCDxo/maxresdefault.jpg)](https://www.youtube.com/watch?v=GWd4g1qCDxo)
+     [AIWarehouse YouTube Channel](https://www.youtube.com/channel/UC9jgqQ3U0gXMMxodgXa59kQ)
 
-## About This Repository
+ ## About This Repository
 
 This repository serves as a space for me to organize and share my academic work and learnings from my undergraduate studies in a simplified format.
 
