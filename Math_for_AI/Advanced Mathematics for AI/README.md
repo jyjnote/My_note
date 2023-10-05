@@ -6,3 +6,5 @@
 | 4    | Bayesian Inference   | Bayesian Inference (1), Bayesian Inference (2), Bayesian Inference (3), Bayesian Networks (1), Bayesian Networks (2) |
 | 5    | Mixture Models       | Clustering, Mixture of Distributions, GMM (1), GMM (2), EM Algorithm |
 | 6    | Markov Chains        | Markov Chain (1), Markov Chain (2), Markov Chain (3), Hidden Markov Model, Markov Decision Process |
+
+[Course Link](https://new.kmooc.kr/view/course/detail/9416?tm=20231005105154)
