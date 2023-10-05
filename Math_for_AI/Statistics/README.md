@@ -1,2 +1,3 @@
-# Programmers
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Here is !!
+This directory is a collection of statistical theories for AI learning! 😊
+
